@@ -1,4 +1,4 @@
-# Portfólio de Fulana de Tal
+# Portfólio de Izabel Moreira
 
 Este é o portfólio pessoal de **Izabel Moreira**, onde são apresentados seus projetos, habilidades, hobbies e experiências profissionais. O site foi desenvolvido para demonstrar suas capacidades como desenvolvedora web e designer, utilizando tecnologias modernas de desenvolvimento front-end.
 
